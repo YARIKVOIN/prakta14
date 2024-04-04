@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="EnergyApi2.Controllers.AppusersController">
+    <Position X="0.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAAAAABgAAABAgAABAAAACAAAAAAAAAAAAAQA=</HashCode>
+      <FileName>Controllers\AppusersController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EnergyApi2.Controllers.AuthController">
+    <Position X="2.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAABAAAAAAAACAACAAAAAAAAAAAAAAAQAA=</HashCode>
+      <FileName>Controllers\AuthController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EnergyApi2.Controllers.BackupController">
+    <Position X="4.25" Y="0.5" Width="1.5" />
+    <NestedTypes>
+      <Class Name="EnergyApi2.Controllers.BackupController.FileDetails" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Controllers\BackupController.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAABAAAAAAAAAAAAAAAAAIAAAAAAAAAAAA=</HashCode>
+      <FileName>Controllers\BackupController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EnergyApi2.Controllers.BasketsController">
+    <Position X="6" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEAAABAAAAAgAAAAAAAAAAACIAAAAIAEAAAA=</HashCode>
+      <FileName>Controllers\BasketsController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EnergyApi2.Controllers.CategoryFurnituresController">
+    <Position X="9.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAFAACAAAABAAAAAAAQAAAAAAAAAAAAAgAAAAAAAA=</HashCode>
+      <FileName>Controllers\CategoryFurnituresController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EnergyApi2.Controllers.EnergiesController">
+    <Position X="2.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAABAAQpAAAAAAgAAAAAAgAAAAAAAECABQAAQg=</HashCode>
+      <FileName>Controllers\EnergiesController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EnergyApi2.Controllers.FavoritebasketsController">
+    <Position X="7.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAABAAAAABCAAAAAAAAAAAAAAAAAAAEAQA=</HashCode>
+      <FileName>Controllers\FavoritebasketsController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EnergyApi2.Controllers.HistoriesController">
+    <Position X="7.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAAAAgBAAAAAAAAAAAIAgAAAAAAAAABAQAAAA=</HashCode>
+      <FileName>Controllers\HistoriesController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EnergyApi2.Controllers.ImagesController">
+    <Position X="0.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQAAABAAAAAAAAAAQAAAAIBAAAAAABAAAAAA=</HashCode>
+      <FileName>Controllers\ImagesController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EnergyApi2.Controllers.RegController">
+    <Position X="4.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAABAAAAAAAACAACAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Controllers\RegController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EnergyApi2.Controllers.RolesController">
+    <Position X="6" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAEQAAAABAAAAAAAwAAAAAAAAAAAAAAAAAgAAAA=</HashCode>
+      <FileName>Controllers\RolesController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoi UI" Size="9" />
+</ClassDiagram>
